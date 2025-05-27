@@ -1,0 +1,17 @@
+KEY STATISTICS FOR PAPER
+==================================================
+
+Dataset: 33,414 NBER working papers (1970-2025)
+Total paper pairs analyzed:  192,501,631
+
+HIGH-SIMILARITY FINDINGS:
+- Same-author pairs with similarity > 0.85:   23,691
+- Same-author pairs with similarity > 0.90:    6,203
+- Same-author pairs with similarity > 0.95:      363
+
+GENAI EFFECT:
+- Coefficient: 0.0075 (p < 0.001)
+- Interpretation:  0.9% increase at mean
+
+EXTREME CASE:
+- Papers published 16 years apart with >0.95 similarity

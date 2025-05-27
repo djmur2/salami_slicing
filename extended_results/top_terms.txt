@@ -1,0 +1,33 @@
+Top Terms in High-Similarity Papers
+==================================================
+
+num: 267.1100
+num num: 67.1411
+research: 59.9602
+tax: 57.3137
+exchange: 52.9341
+capital: 42.7184
+rates: 40.8843
+num num num: 40.0535
+real: 39.3548
+price: 37.1685
+interest: 35.6105
+nber: 35.5390
+working: 35.3632
+national: 34.0748
+labor: 33.6891
+monetary: 31.3417
+inflation: 30.1121
+income: 29.7276
+money: 29.1985
+effects: 29.1745
+international: 29.1563
+wage: 28.5918
+prices: 28.2041
+changes: 26.7096
+bureau: 26.4282
+investment: 26.3335
+may: 26.1795
+models: 26.0528
+national bureau: 25.9212
+bureau research: 25.0548

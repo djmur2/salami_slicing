@@ -1,0 +1,9 @@
+VALIDATION SAMPLE INSTRUCTIONS
+==================================================
+
+This file contains 50 paper pairs with similarity > 0.95
+Please review each pair and classify as:
+1. Legitimate progression
+2. Questionable reuse
+3. Clear duplication
+4. Unable to determine
